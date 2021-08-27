@@ -15,7 +15,7 @@ Simon Mungai Njoroge- This project was completed as part of Code Moringa Mentore
 ### License
 Copyright SIMON MUNGAI 2021
 
-Permission is hereby granted, free of charge, 
+Permission is hereby granted, free of charge, to any person obtaining a copy
 
 
 
